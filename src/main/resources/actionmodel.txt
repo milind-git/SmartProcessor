@@ -1,0 +1,34 @@
+I want to apply for <START:category_leave> leave <END> <START:category_date> next <END> tuesday.
+I want to apply for <START:category_leave>leave<END> <START:category_date> next <END> tuesday.
+Apply for <START:category_leave>leave<END> <START:category_date> next <END> tuesday.
+I want <START:category_leave>leave<END> <START:category_date> next <END> tuesday.
+Want <START:category_leave>leave<END> <START:category_date> next <END> tuesday.
+I want to apply for <START:category_leave>leave<END> <START:category_date> next <END> monday.
+Apply for <START:category_leave>leave<END> <START:category_date> next <END> monday.
+I want <START:category_leave>leave<END> <START:category_date> next <END> monday.
+Want <START:category_leave>leave<END> <START:category_date> next <END> monday.
+I want to apply for <START:category_leave>leave<END> <START:category_date> next <END> sunday.
+Apply for <START:category_leave>leave<END> <START:category_date> next <END> sunday.
+I want <START:category_leave>leave<END> <START:category_date> next <END> sunday.
+Want <START:category_leave>leave<END> <START:category_date> next <END> sunday.
+I want to apply for <START:category_leave>leave<END> <START:category_date> next <END> wednesday.
+Apply for <START:category_leave>leave<END> <START:category_date> next <END> wednesday.
+I want <START:category_leave>leave<END> <START:category_date> next <END> wednesday.
+Want <START:category_leave>leave<END> <START:category_date> next <END> wednesday.
+I want to apply for <START:category_leave>leave<END> <START:category_date> next <END> thursday.
+Apply for <START:category_leave>leave<END> <START:category_date> next <END> thursday.
+I want <START:category_leave>leave<END> <START:category_date> next <END> thursday.
+Want <START:category_leave>leave<END> <START:category_date> next <END> thursday.
+I want to apply for <START:category_leave>leave<END> <START:category_date> next <END> friday.
+Apply for <START:category_leave>leave<END> <START:category_date> next <END> friday.
+I want <START:category_leave>leave<END> <START:category_date> next <END> friday.
+Want <START:category_leave>leave<END> <START:category_date> next <END> friday.
+I want to apply for <START:category_leave>leave<END> <START:category_date> next <END> saturday.
+Apply for <START:category_leave>leave<END> <START:category_date> next <END> saturday.
+I want <START:category_leave>leave<END> <START:category_date> next <END> saturday.
+Want <START:category_leave>leave<END> <START:category_date> next <END> saturday.
+My <START:category_leave> leave<END>balance.
+show my <START:category_leave> leave<END>balance.
+what is my <START:category_leave> leave<END>balance.
+display my <START:category_leave> leave<END>balance.
+<START:category_leave> leave balance please.

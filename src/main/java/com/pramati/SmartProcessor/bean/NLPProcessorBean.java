@@ -23,7 +23,7 @@ public class NLPProcessorBean {
 	@PostConstruct
 	private void initialize() {
 		 try {
-		  InputStream modelStream = getClass().getResourceAsStream("/nlp/en-pos-maxent.bin");
+		  InputStream modelStream = getClass().getResourceAsStream("/nlp/en-ner-date.bin");
 		  POSModel model = new POSModel(modelStream);
 		  tagger = new POSTaggerME(model);
 		 } catch (IOException e) {
